@@ -1,4 +1,6 @@
-Do this to fix images using next/images 
+MISC NOTES
 
-https://nextjs.org/docs/messages/next-image-upgrade-to-13
+IMGS
+- Do this to fix images using next/images 
+- https://nextjs.org/docs/messages/next-image-upgrade-to-13
 
